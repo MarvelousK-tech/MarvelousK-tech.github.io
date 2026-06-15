@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Allan:wght@400;700&family=Delius&family=Edu+SA+Beginner:wght@400..700&display=swap');
+
+body {
+  color: black;
+  Max-width: 700px;
+  Margin: auto;
+  Background-color: #0edbed;
+}
+
+ h1, h2, h3, h4 { 
+   Color: White;
+   Background-color: #0b44b5;
+   Text-align: center;
+}
+P {font-family: "Edu SA Beginner", cursive;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+h5 {
+  Text-align: center;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+} 
+
+tr:hover {
+  color: white;
+} 
+
+Td:hover {
+  Background-color: #05a1a1;
+}
+
+p {
+  margin-bottom: 40px;
+}
+
+a {
+  Background-Color: 0edbed;
+} 
+
+a:hover {
+  Color: #05a1a1;
+}
+H1, h2, h3, h4 {font-family: "Delius", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
