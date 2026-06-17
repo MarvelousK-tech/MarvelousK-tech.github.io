@@ -18,7 +18,7 @@ p {
   font-optical-sizing: auto;
   font-weight: 600;
   font-style: normal;
-  border: 2px #3d63a1;
+  border: 2px solid blue;
   border-radius: 5px;
   margin-bottom: 40px;
 
