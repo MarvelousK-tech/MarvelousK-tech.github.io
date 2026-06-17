@@ -59,3 +59,29 @@ H1, h2, h3, h4 {font-family: "Delius", cursive;
   font-style: normal;
 }
 
+h1 {
+  border: 1px solid black;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+  background-color: lightblue;
+}
+.frank {
+  border: 20px solid blue;
+}
+</style>
+</head>
+<body>
+
+<h1>Using individual margin properties</h1>
+
+<div>This div element has a top margin of 100px, a right margin of 150px, a bottom margin of 100px, and a left margin of 80px.</div>
+<div class="frank">
+  <h3>hi</h3>
+  <h3>hi</h3>
+
+  <h3>hi</h3>
+
+  <h3>hi</h3>
+</div>
