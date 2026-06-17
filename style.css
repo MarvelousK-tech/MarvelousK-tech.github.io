@@ -67,7 +67,7 @@ h1 {
   margin-left: 20px;
   background-color: lightblue;
 }
-.border-box {
-  border: 20px solid blue;
+border: 2px solid red;
+  border-radius: 5px;
 }
 
