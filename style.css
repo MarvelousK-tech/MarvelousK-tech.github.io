@@ -50,3 +50,7 @@ H1, h2, h3, h4 {font-family: "Delius", cursive;
   font-weight: 400;
   font-style: normal;
 }
+p {
+  border: 2px solid red;
+  border-radius: 5px;
+}
